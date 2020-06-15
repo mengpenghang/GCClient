@@ -1,0 +1,7 @@
+{
+  "modules": [
+    {
+      "type": "GC.Client.RBAC.ClientModule,GC.Client.RBAC"
+    }
+  ]
+}
